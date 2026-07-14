@@ -1,0 +1,42 @@
+[2026-07-14T14:29:03.912Z] Starting Website Cloner Pro {"targetUrl":"https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=OXvbAMn36m07uh1V0lF+og==","outDir":"E:\\Pusiness\\react-cloner-pro-v5-clean\\output","maxPages":100}
+[2026-07-14T14:29:16.024Z] Crawling page {"url":"https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=OXvbAMn36m07uh1V0lF+og==","depth":0}
+[2026-07-14T14:29:22.169Z] Saved file {"file":"js/config/root/env.root_q_1772371391979-index.js","bytes":2116}
+[2026-07-14T14:29:22.422Z] Byte-identical JS verified {"file":"js/config/root/env.root_q_1772371391979-index.js","url":"https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979","ok":true,"bytes":2116,"sourceSha256":"db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4","savedSha256":"db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4"}
+[2026-07-14T14:29:24.569Z] Saved file {"file":"css/assets/index-QVNIwH8F.css","bytes":63679}
+[2026-07-14T14:29:24.697Z] Saved file {"file":"js/env_q_1772371391979-index.js","bytes":511}
+[2026-07-14T14:29:24.719Z] Byte-identical JS verified {"file":"js/env_q_1772371391979-index.js","url":"https://qr.saudibusiness.gov.sa/env.js?1772371391979","ok":true,"bytes":511,"sourceSha256":"aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd","savedSha256":"aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd"}
+[2026-07-14T14:29:26.789Z] Auto scrolling page
+[2026-07-14T14:29:26.989Z] Saved file {"file":"js/assets/index-CzTOOSTm.js","bytes":1409172}
+[2026-07-14T14:29:27.017Z] Byte-identical JS verified {"file":"js/assets/index-CzTOOSTm.js","url":"https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js","ok":true,"bytes":1409172,"sourceSha256":"4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6","savedSha256":"4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6"}
+[2026-07-14T14:29:27.630Z] Saved file {"file":"assets/new-logo-w-Bsa-bGtT.svg","bytes":65557}
+[2026-07-14T14:29:27.869Z] Expanding interactive content
+[2026-07-14T14:29:27.895Z] Interaction pass complete {"pass":1,"clicked":0}
+[2026-07-14T14:29:28.643Z] Saved file {"file":"assets/DINNextLTArabic-Bold-D6gNGPOf.woff2","bytes":46076}
+[2026-07-14T14:29:28.802Z] Saved file {"file":"assets/DINNextLTArabic-Regular-DYtxlCll.woff2","bytes":46320}
+[2026-07-14T14:29:28.835Z] Auto scrolling page
+[2026-07-14T14:29:29.998Z] Saved file {"file":"assets/header-web-DisaZgHs.jpg","bytes":409846}
+[2026-07-14T14:29:31.365Z] Saved file {"file":"assets/DINNextLTArabic-Medium-C5X_7zdr.woff2","bytes":46332}
+[2026-07-14T14:29:32.553Z] Saved file {"file":"assets/sdaiaLogo-DA2sR2Cc.svg","bytes":315416}
+[2026-07-14T14:29:33.346Z] ERROR Request failed {"url":"https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg","method":"GET","type":"image","failure":{"errorText":"net::ERR_ABORTED"}}
+[2026-07-14T14:29:33.452Z] ERROR Failed to save response {"url":"https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=OXvbAMn36m07uh1V0lF+og%3D%3D","message":"response.body: Protocol error (Network.getResponseBody): No resource with given identifier found"}
+[2026-07-14T14:29:33.672Z] Saved file {"file":"js/config/root/env.root_q_1772371391979-index.js","bytes":2116}
+[2026-07-14T14:29:33.706Z] Byte-identical JS verified {"file":"js/config/root/env.root_q_1772371391979-index.js","url":"https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979","ok":true,"bytes":2116,"sourceSha256":"db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4","savedSha256":"db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4"}
+[2026-07-14T14:29:33.798Z] Saved file {"file":"js/env_q_1772371391979-index.js","bytes":511}
+[2026-07-14T14:29:33.829Z] Byte-identical JS verified {"file":"js/env_q_1772371391979-index.js","url":"https://qr.saudibusiness.gov.sa/env.js?1772371391979","ok":true,"bytes":511,"sourceSha256":"aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd","savedSha256":"aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd"}
+[2026-07-14T14:29:33.950Z] Saved file {"file":"js/assets/index-CzTOOSTm.js","bytes":1409172}
+[2026-07-14T14:29:33.983Z] Byte-identical JS verified {"file":"js/assets/index-CzTOOSTm.js","url":"https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js","ok":true,"bytes":1409172,"sourceSha256":"4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6","savedSha256":"4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6"}
+[2026-07-14T14:29:36.543Z] Saved file {"file":"api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-OXvbAMn36m07uh1V0lF_og.json","bytes":29036}
+[2026-07-14T14:29:37.349Z] Saved file {"file":"assets/header-mobile-Bri6g_KO.jpg","bytes":117166}
+[2026-07-14T14:29:37.842Z] Auto scrolling page
+[2026-07-14T14:29:38.691Z] Expanding interactive content
+[2026-07-14T14:29:38.933Z] Interaction pass complete {"pass":1,"clicked":0}
+[2026-07-14T14:29:39.845Z] Auto scrolling page
+[2026-07-14T14:29:45.309Z] Saved file {"file":"images/root/assets/icons/fav.svg","bytes":2833}
+[2026-07-14T14:29:45.331Z] No ViewDocumentV2 response captured; custom document extraction skipped
+[2026-07-14T14:29:45.486Z] Saved file {"file":"css/assets/index-QVNIwH8F.css","bytes":71106}
+[2026-07-14T14:29:45.501Z] Saved file {"file":"-nCrNumber-OXvbAMn36m07uh1V0lF_og-/index.html","bytes":81431}
+[2026-07-14T14:29:45.621Z] Saved file {"file":"viewcr/index.html","bytes":81403}
+[2026-07-14T14:29:45.698Z] Saved file {"file":"index.html","bytes":81396}
+[2026-07-14T14:29:45.751Z] Saved file {"file":"clone-report.html","bytes":2030}
+[2026-07-14T14:29:45.778Z] Export verification passed
+[2026-07-14T14:29:46.567Z] Clone complete {"outDir":"E:\\Pusiness\\react-cloner-pro-v5-clean\\output","pages":1,"files":17}
