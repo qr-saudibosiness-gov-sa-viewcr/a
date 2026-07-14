@@ -5,7 +5,7 @@
     // deployment directory. Remove it before deriving the hosting subpath.
     var currentPath = location.pathname.replace(/\/index\.html(?=\/|$)/ig, '');
     currentPath = currentPath.endsWith('/') ? currentPath : currentPath + '/';
-    var marker = "/";
+    var marker = "/viewcr/";
     var markerIndex = currentPath.lastIndexOf(marker);
     var deploymentBase = markerIndex >= 0 ? currentPath.slice(0, markerIndex) : '';
     var deploymentRoot = (deploymentBase.replace(/\/+$/, '') || '') + '/';
